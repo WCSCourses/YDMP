@@ -1,6 +1,7 @@
 
 # yourdigitalmentorpodcast
-![WCSlogo](https://github.com/WCSCourses/yourdigitalmentorpodcast/blob/a95baa09c5309c342c2d29e88f277eda8e8e8985/logos/WCS%20logo.jpg)
+
+![podcastlogo](https://github.com/WCSCourses/YDMP/blob/main/logos/leadingImageV2_FinalSmall2.png)
 
 Making stories about mentorship and career development
 
