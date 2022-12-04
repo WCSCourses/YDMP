@@ -4,6 +4,3 @@ Your Digital Mentor Podcast was started in 2020 following a successful proposal 
 Listen more about how the podcast came to being on the Season 1 bonus episode series.
 
 
-This website is the sum of all the ideas, practical steps and processes, developed as a knowledge sharing platform to provide freely available resources for anyone who wants to start a podcast for global professional audiences. If you have any suggestions or would like to input into this work, please feel free to contact us on enquiries@yourdigimentor.net  
-
-
