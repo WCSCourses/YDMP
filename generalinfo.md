@@ -3,7 +3,9 @@ The digital mentor podcast is a series that provides access to conversations aro
 
 ## Contributors
 Christine Boinett (Creator, Executive producer and Host, Wellcome Sanger Institute
-Alice Matimba (Senior producer, Wellcome Connecting Science
+
+Alice Matimba (Senior producer, Wellcome Connecting Science)
+
 Isabela Malta (Researcher and Producer, Wellcome Connecting Science)
 Emmanuela Oppong Producer and Sound engineer, SIHI
 Anna Protasio (Producer and Host – Spanish Episodes, University of Cambridge).
