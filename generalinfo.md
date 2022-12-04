@@ -21,5 +21,5 @@ Mariana Vaz
 Nomusa Taylor-Dube, Chebet Rono, Joseph Tucker, Darren Hughes, Stephen Bentley
 
 ## Collaborating Institutions
-Wellcome Sanger Institute (WSI; Wellcome Connecting Science (WCS); Social Innovation in Health Initiatives (SIHI)
+Wellcome Sanger Institute (WSI); Wellcome Connecting Science (WCS); Social Innovation in Health Initiatives (SIHI) - co-sponsored by the TDR Global, Special Programme for Research. 
 
