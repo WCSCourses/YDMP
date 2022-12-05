@@ -26,3 +26,9 @@ There are many freely available resources available online which signpost you to
 In all the activities it is important to respect cultures, ensure representation by having diverse guests and strategies to reach audiences that may really benefit from the podcast. Your Digital Mentor Podcast implement gender, geographical and demographic diversity by inviting guests from all over the world and experts at different career stages.
 
 Go to the next section to get comprehensive details for implementing a podcast.
+
+## Useful links
+[About Your Digital Mentor Podcat](About Your Digital Mentor Podcast.md)      
+[Podcast story](Podcast story.md)     
+[Initiating your own podcast](Initiating a podcast.md).      
+[Implement your podcast](Implement your podcast.md) 
