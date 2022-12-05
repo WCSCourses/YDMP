@@ -11,7 +11,7 @@ Isabela Malta - Researcher and Producer
 Emmanuela Oppong - Producer and Sound engineer
 
 ## Marketing
-Catherine Holmes
+Catherine Holmes    
 Luke Bennet
 
 ## Editors
