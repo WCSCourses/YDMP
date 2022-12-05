@@ -5,8 +5,6 @@
 
 Making stories about mentorship and career development
 
-## Other pages
-
 [About Your Digital Mentor Podcat](About Your Digital Mentor Podcast.md)      [Podcast story](Podcast story.md)     [Initiating your own podcast](Initiating a podcast.md)
 
 # Standing on the shoulder of giants
