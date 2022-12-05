@@ -62,3 +62,9 @@ All SOPs and checklists can be downloaded HERE
 •	Good marketing strategy 
 •	Sharing with networks and at every opportunity
 •	Develop clear SOPs for consistency
+
+## Useful links
+[About Your Digital Mentor Podcat](About Your Digital Mentor Podcast.md)      
+[Podcast story](Podcast story.md)     
+[Initiating your own podcast](Initiating a podcast.md).      
+[Implement your podcast](Implement your podcast.md) 
