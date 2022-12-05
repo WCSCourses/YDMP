@@ -23,3 +23,8 @@ Nomusa Taylor-Dube, Chebet Rono, Joseph Tucker, Darren Hughes, Stephen Bentley
 ## Collaborating Institutions
 Wellcome Sanger Institute (WSI); Wellcome Connecting Science (WCS); Social Innovation in Health Initiatives (SIHI) - co-sponsored by the TDR Global, Special Programme for Research. 
 
+## Useful links
+[About Your Digital Mentor Podcat](About Your Digital Mentor Podcast.md)      
+[Podcast story](Podcast story.md)     
+[Initiating your own podcast](Initiating a podcast.md).      
+[Implement your podcast](Implement your podcast.md) 
