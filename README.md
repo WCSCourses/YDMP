@@ -5,13 +5,9 @@
 
 Making stories about mentorship and career development
 
-## linkindex
+## Other pages
 
-[generalinfopage](generalinfo.md)
-
-[Podcast story](Podcast story.md)
-
-[Initiating your own podcast](Initiating a podcast.md)
+[generalinfopage](generalinfo.md) [Podcast story](Podcast story.md) [Initiating your own podcast](Initiating a podcast.md)
 
 # Standing on the shoulder of giants
 The very popular metaphor that “One stands on the shoulders of giants” rings true in mentoring. It is also true that mentoring is a learned skill that one has to actively pursue and partake in. Through our learned experiences in various fields in science and public health, we have interacted with some phenomenal people across the globe, peers and mentors alike, who can share their experience and offer advice. We wish to make this expertise more accessible to a wider audience by creating a podcast. 
