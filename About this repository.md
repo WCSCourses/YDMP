@@ -1,3 +1,6 @@
+# About this repository
+This repository is a compilation of resources for Your Digital Mentor Podcast inspired by the growing need to access mentorship in science and global health.
+
 ## Standing on the shoulder of giants
 The very popular metaphor that “One stands on the shoulders of giants” rings true in mentoring. It is also true that mentoring is a learned skill that one has to actively pursue and partake in. Through our learned experiences in various fields in science and public health, we have interacted with some phenomenal people across the globe, peers and mentors alike, who can share their experience and offer advice. We wish to make this expertise more accessible to a wider audience by creating a podcast. The goal of the Your Digital Mentor Podcast is to share knowledge and experiences, and to engage scientists and global health experts in topics that impact careers and professional skills development. 
 
