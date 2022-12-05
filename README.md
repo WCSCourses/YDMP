@@ -1,5 +1,5 @@
 
-# yourdigitalmentorpodcast
+# welcome to Your Digital Mentor Podcast
 
 ![podcastlogo](logos/leadingImageV2_FinalSmall2.png)
 
