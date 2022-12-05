@@ -64,9 +64,10 @@ All SOPs and checklists can be downloaded HERE
 •	Develop clear SOPs for consistency
 
 ## Useful links
-[About this Website](About this website.md)       
-[About Your Digital Mentor Podcat](About Your Digital Mentor Podcast.md)           
-[Podcast story](Podcast story.md)               
-[Initiating your own podcast](Initiating a podcast.md)              
-[Implement your podcast](Implement your podcast.md)          
+[Welcome to Your Digital Mentor Podcast](README.md)      
+[About this Repository](About this website.md)             
+[About Your Digital Mentor Podcast](About Your Digital Mentor Podcast.md).                          
+[Initiating your podcast](Initiating a podcast.md)              
+[Implement your podcast](Implement your podcast.md)        
+[License](LICENSE.md)             
 
