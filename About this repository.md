@@ -6,9 +6,10 @@ The podcast uses digital media to amplify the voices of those who have something
 This repository is the sum of all the ideas, practical steps and processes, developed as a knowledge sharing platform to provide freely available resources for anyone who wants to start a podcast for global professional audiences. We hope that it will be useful to you and you can tailor your podcast. We would like to make this a community project and invite anyone who would like to input into this work and "pay it forward". Contact us on enquiries@yourdigimentor.net  
 
 ## Useful links
-[About this Website](About this website.md)       
-[About Your Digital Mentor Podcat](About Your Digital Mentor Podcast.md)           
-[Podcast story](Podcast story.md)               
-[Initiating your own podcast](Initiating a podcast.md)              
-[Implement your podcast](Implement your podcast.md)          
+[Welcome to Your Digital Mentor Podcast](README.md)      
+[About this Repository](About this website.md)             
+[About Your Digital Mentor Podcast](About Your Digital Mentor Podcast.md).                          
+[Initiating your podcast](Initiating a podcast.md)              
+[Implement your podcast](Implement your podcast.md)        
+[License](LICENSE.md)           
 
