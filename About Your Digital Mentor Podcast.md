@@ -30,7 +30,7 @@ Wellcome Sanger Institute (WSI); Wellcome Connecting Science (WCS); Social Innov
 
 ## Useful links
 [Welcome to Your Digital Mentor Podcast](README.md)      
-[About this Repository](About this website.md)             
+[About this Repository](About this repository.md)             
 [About Your Digital Mentor Podcast](About Your Digital Mentor Podcast.md).                          
 [Initiating your podcast](Initiating a podcast.md)              
 [Implement your podcast](Implement your podcast.md)        
