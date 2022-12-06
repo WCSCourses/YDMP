@@ -17,7 +17,7 @@ A podcast concept proposal which can be tailored for various stakeholder is a us
 Getting buy-in at this stage is crucial and required engagement with key decision-makers who can ensure availability of resources. Therefore, identify your stakeholders and potential sponsors or funders to whom you will present your podcast proposal.
 The strategy should include the following – background and description of the podcast and ideas, target audience, the team, podcast format, implementation strategy, marketing plan, impact, timelines and budget. 
 
-Go HERE to download an example of a podcast concept proposal
+Go HERE to download an example of a [podcast concept proposal](https://github.com/WCSCourses/YDMP/blob/main/Example%20of%20a%20podcast%20concept%20proposal.pdf)
 
 ## Do your research about producing podcasts
 There are many freely available resources available online which signpost you to various aspects from developing podcast trailers, recording equipment to editing. Another good way to learn about podcasts is to listen to as many different podcasts as you can to help you determine what is most suitable for you. Listening to similar themes podcasts also helps to determine how others have implemented their ideas.
