@@ -16,11 +16,11 @@ Review the topics to determine if they are within scope, in context and of topic
 
 ## Marketing and media preparation	
 A marketing strategy is outlined in the concept proposal. A more specific approach may be needed depending on availability of resources and time.
-Other items to prepare include
-•	Logo and podcast graphics
-•	A trailer
-•	Setting up social media pages and a website
-•	Coordinate release of episodes with social media uploads.
+Other items to prepare include  
+•	Logo and podcast graphics   
+•	A trailer   
+•	Setting up social media pages and a website   
+•	Coordinate release of episodes with social media uploads   
 
 ## Technical requirements and recording
 You may microphone which can be attached to your computer and run via recording software. However, if internet connectivity fluctuates or your computer does not have recording software, then using a phone to record your audio is a sure way of capturing all your inputs. The audio files can be sent to the editor after the recording session. Your Digital Mentor Podcast used Zoom to record the episodes. Although the podcast is published as audio only, having the recording session with video is recommended for more comfortable interaction among the guests and hosts.
@@ -31,7 +31,7 @@ Be mindful of timezones especially when guests and hosts are in different parts 
 Make sure you obtain consent for the podcast. Go HERE to view the talent release form which gives permission for the episode to be released. In addition, consent is needed for use of social media links and images for promotional purposes.  
 
 ## SOPs and checklists	
-Your Digital Mentor Podcast Toolkit consists of SOPs, checklists and templates for adaptation to your needs.Research outline and guest scoping.
+Your Digital Mentor Podcast Toolkit consists of SOPs, checklists and templates for adaptation to your needs.     
 •	[Guest liason and email templates](https://github.com/WCSCourses/YDMP/blob/main/Guest%20liason%20email%20templates.pdf)   
 •	[Talent release and consent for media and images form](https://github.com/WCSCourses/YDMP/blob/main/Guest%20information%20collection%20forms.pdf)    
 •	[Recording SOP](https://github.com/WCSCourses/YDMP/blob/main/SOP%20Recording%20episode%20-%20Intro_outro%20template.pdf)  
