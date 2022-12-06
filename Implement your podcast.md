@@ -36,7 +36,7 @@ Your Digital Mentor Podcast Toolkit consists of SOPs, checklists and templates f
 •	[Talent release and consent for media and images form](https://github.com/WCSCourses/YDMP/blob/main/Guest%20information%20collection%20forms.pdf)    
 •	[Recording SOP](https://github.com/WCSCourses/YDMP/blob/main/SOP%20Recording%20episode%20-%20Intro_outro%20template.pdf)  
 •	[Episode fact sheet](https://github.com/WCSCourses/YDMP/blob/main/S2_Template_factSheet.pdf)   
-•	[Timeline and checklist for Your Digital Mentor Podcast Season 2]   
+•	[Timeline and checklist for Your Digital Mentor Podcast Season 2](https://github.com/WCSCourses/YDMP/blob/main/YDMP%20production%20summary%20checklist%20and%20timelines.pdf)   
 •	[Production summary checklist](https://github.com/WCSCourses/YDMP/blob/main/YDMP%20production%20summary%20checklist%20and%20timelines.pdf)
 
 ## Evaluation and reporting
