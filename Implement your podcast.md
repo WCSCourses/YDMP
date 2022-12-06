@@ -1,8 +1,7 @@
 # Podcast implementation
 We have prepared a detailed description of podcast production using the Your Digital Mentor Podcast resources as a toolkit for processes and templates which can be adapted for own needs and setting.  
-Podcast production overview
-Title for podcast
-Come up with several podcast titles which are catchy and broad enough to attract listeners. Test these among peers or conduct a survey.
+## Podcast production overview
+Title for podcast - Come up with several podcast titles which are catchy and broad enough to attract listeners. Test these among peers or conduct a survey.
 
 ## Podcast genre
 Research on other similar podcasts out there and how yours will contribute to gaps. Find podcast apps and go through genre lists to determine how your ideas are already being covered. Podcast theme, topic and scope.
@@ -33,12 +32,12 @@ Make sure you obtain consent for the podcast. Go HERE to view the talent release
 
 ## SOPs and checklists	
 Your Digital Mentor Podcast Toolkit consists of SOPs, checklists and templates for adaptation to your needs.Research outline and guest scoping.
-•	Guest liason and email templates 
-•	Talent release form
-•	Social media, biography and image form
-•	Recording SOP
-•	Episode fact sheet
-•	Timeline and checklist for YDMP Season 2 
+•	Guest liason and email templates   
+•	Talent release form  
+•	Social media, biography and image form  
+•	Recording SOP  
+•	Episode fact sheet   
+•	Timeline and checklist for Your Digital Mentor Podcast Season 2   
 
 ## Evaluation and reporting
 Data on listeners is collected via podcatchers. The main data collected for Your Digital Mentor Podcast includes number of listeners, geographical location, top countries accessing the podcast. Other data collected includes feedback provided by listeners via social media or directly email.
@@ -49,19 +48,20 @@ The Your Digital Mentor Podcast team meets on a weekly basis for 1-1.5 hours at 
 All SOPs and checklists can be downloaded HERE
 
 ## Summary of considerations for producing a podcast
-•	Preparation, preparation, preparation!!!
-•	Time!!! - The most critical resource for podcast team and guests. 
-•	You need a good podcast development and production team who are imaginative and create content based on topical issues. 
-•	Skills - creative/artsy skills, interviewing/hosting, communication  skills marketing and editing
-•	Budget - consider editing - the biggest part of the budget, marketing, subscriptions to hosting platforms
-•	Platforms and equipment for recording
-•	Plan ahead e.g. 3-6 months before start of season you should work on a schedule including periods for interviewing. Best to schedule as many as possible during a short period to allow for full attention than spreading out over several weeks.
-•	Work as team! Right from the start agree on roles and responsibilities for each team member. Divide the labour and ensure the team support each other.
-•	Good guests - lots of scoping work is needed to identify the best guests; Have several options and factor in time to find alternative guests. Good to consider not only content, but also engagement on social media, for instance, to attract more listeners. Don’t make the mistake I did for recruiting guests only based on a paper
-•	Invest in a good editor - and make sufficient time to review episodes and on time
-•	Good marketing strategy 
-•	Sharing with networks and at every opportunity
-•	Develop clear SOPs for consistency
+•	 Preparation, preparation, preparation!!!  
+•	 Time!!! - The most critical resource for podcast team and guests    
+•	 You need a good podcast development and production team who are imaginative and create content based on topical issues      
+•	 Skills - creative/artsy skills, interviewing/hosting, communication  skills marketing and editing   
+•	 Budget - consider editing - the biggest part of the budget, marketing, subscriptions to hosting platforms   
+•	 Platforms and equipment for recording   
+•	 Plan ahead e.g. 3-6 months before start of season you should work on a schedule including periods for interviewing. Best to schedule as many as possible    during a short period to allow for full attention than spreading out over several weeks    
+•	 Work as team! Right from the start agree on roles and responsibilities for each team member. Divide the labour and ensure the team support each other   
+•	 Good guests - lots of scoping work is needed to identify the best guests; Have several options and factor in time to find alternative guests    
+•	 Good to consider not only content, but also engagement on social media, for instance, to attract more listeners. Don’t make the mistake I did for recruiting guests only based on a paper   
+•	 Invest in a good editor - and make sufficient time to review episodes and on time   
+•	 Good marketing strategy    
+•	 Sharing with networks and at every opportunity   
+•	 Develop clear SOPs for consistency     
 
 ## Useful links
 [Welcome to Your Digital Mentor Podcast](README.md)      
