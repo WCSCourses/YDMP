@@ -32,12 +32,12 @@ Make sure you obtain consent for the podcast. Go HERE to view the talent release
 
 ## SOPs and checklists	
 Your Digital Mentor Podcast Toolkit consists of SOPs, checklists and templates for adaptation to your needs.Research outline and guest scoping.
-•	Guest liason and email templates   
-•	Talent release form  
-•	Social media, biography and image form  
-•	Recording SOP  
-•	Episode fact sheet   
-•	Timeline and checklist for Your Digital Mentor Podcast Season 2   
+•	[Guest liason and email templates](https://github.com/WCSCourses/YDMP/blob/main/Guest%20liason%20email%20templates.pdf)   
+•	[Talent release and consent for media and images form](https://github.com/WCSCourses/YDMP/blob/main/Guest%20information%20collection%20forms.pdf)    
+•	[Recording SOP](https://github.com/WCSCourses/YDMP/blob/main/SOP%20Recording%20episode%20-%20Intro_outro%20template.pdf)  
+•	[Episode fact sheet](https://github.com/WCSCourses/YDMP/blob/main/S2_Template_factSheet.pdf)   
+•	[Timeline and checklist for Your Digital Mentor Podcast Season 2]   
+•	[Production summary checklist](https://github.com/WCSCourses/YDMP/blob/main/YDMP%20production%20summary%20checklist%20and%20timelines.pdf)
 
 ## Evaluation and reporting
 Data on listeners is collected via podcatchers. The main data collected for Your Digital Mentor Podcast includes number of listeners, geographical location, top countries accessing the podcast. Other data collected includes feedback provided by listeners via social media or directly email.
