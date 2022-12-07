@@ -30,7 +30,9 @@ Mariana Vaz
 Nomusa Taylor-Dube, Chebet Rono, Joseph Tucker, Darren Hughes, Stephen Bentley
 
 ## Collaborating Institutions
-[Wellcome Sanger Institute (WSI)](https://www.sanger.ac.uk); [Wellcome Connecting Science (WCS)](https://www.wellcomeconnectingscience.org); [Social Innovation in Health Initiatives (SIHI)](https://socialinnovationinhealth.org) - co-sponsored by the TDR Global, Special Programme for Research. 
+[Wellcome Sanger Institute (WSI)](https://www.sanger.ac.uk)   
+[Wellcome Connecting Science (WCS)](https://www.wellcomeconnectingscience.org)   
+[Social Innovation in Health Initiatives (SIHI)](https://socialinnovationinhealth.org) - co-sponsored by the TDR Global, Special Programme for Research. 
 
 ## Useful links
 [Welcome to Your Digital Mentor Podcast](README.md)      
