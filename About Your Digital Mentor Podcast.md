@@ -6,7 +6,7 @@ Your Digital Mentor Podcast was started in 2020 following a successful proposal 
 
 Hear more about how the podcast came to be by listening to [this Season 1 bonus episode](https://your-digital-mentor.simplecast.com/episodes/meet-our-awesome-team) on [Your Digital Mentor Podcast](https://your-digital-mentor.simplecast.com/episodes) Season 1 bonus episode series.   
 
-Listen to our [latest episodes](https://your-digital-mentor.simplecast.com/episodes)covering the "skills lab" for personal professional development including leadership, writing and entrepreneurship. Also learn more about the [impact of mentorship in global health careers](https://your-digital-mentor.simplecast.com/episodes/mentorship-and-global-health-careers) and in [fostering communities of practice](https://your-digital-mentor.simplecast.com/episodes/mentorship-part-1-a-community-of-practice-as-a-mentorship-model) 
+Listen to our latest episodes covering the "skills lab" for personal professional development including [leadership](https://your-digital-mentor.simplecast.com/episodes/leadership), [writing](https://your-digital-mentor.simplecast.com/episodes/skills-lab-writing-skills) and [entrepreneurship in commercialising science products](https://your-digital-mentor.simplecast.com/episodes/entrepreneurship). Also learn more about the [impact of mentorship in global health careers](https://your-digital-mentor.simplecast.com/episodes/mentorship-and-global-health-careers) and in [fostering communities of practice](https://your-digital-mentor.simplecast.com/episodes/mentorship-part-1-a-community-of-practice-as-a-mentorship-model) 
    
 Follow @mentor_podcast on [Twitter](https://twitter.com/mentor_podcast) and [LinkedIn](https://www.linkedin.com/company/66932029/admin/)
       
