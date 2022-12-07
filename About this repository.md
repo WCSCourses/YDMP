@@ -6,7 +6,7 @@ The very popular metaphor that “One stands on the shoulders of giants” rings
 
 The podcast uses digital media to amplify the voices of those who have something to share with the world. Having developed this podcast organically from scratch, we now share our journey with a set of tools and resources to enable others to develop their own podcasts of a similar nature. 
 
-This repository is the sum of all the ideas, practical steps and processes, developed as a knowledge sharing platform to provide freely available resources for anyone who wants to start a podcast for global professional audiences. We hope that it will be useful to you and you can tailor your podcast. We would like to make this a community project and invite anyone who would like to input into this work and "pay it forward". Contact us on enquiries@yourdigimentor.net  
+This repository is the sum of all the ideas, practical steps and processes, developed as a knowledge sharing platform to provide freely available resources for anyone who wants to start a podcast for global professional audiences. We hope that it will be useful to you in tailoring your podcast. We would like to make this a community project and invite anyone who would like to input into this work and “pay it forward” - which is the moto of our podcast. You can email us on enquiries@yourdigimentor.net  
 
 ## Useful links
 [Welcome to Your Digital Mentor Podcast](README.md)      
