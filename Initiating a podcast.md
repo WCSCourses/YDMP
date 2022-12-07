@@ -11,18 +11,17 @@ Key tasks for a podcast include research and production, editing, marketing, log
 ## Define your target audience
 Define your main target audiences and communities which you would like to reach and why this method is a suitable method. Determine key demographics and professional backgrounds who are likely to benefit from the proposed content.
 
-## Develop a concept proposal
-A podcast concept proposal which can be tailored for various stakeholder is a useful way to brainstorm the idea and include all practical aspects of podcast design and delivery. 
-Getting buy-in at this stage is crucial and required engagement with key decision-makers who can ensure availability of resources. Therefore, identify your stakeholders and potential sponsors or funders to whom you will present your podcast proposal.
+## Develop a podcast proposal
+A podcast concept proposal which can be tailored for various stakeholders is a useful way to brainstorm the idea and include all practical aspects of podcast design and delivery. Getting buy-in at this stage is crucial and requires engagement with key decision-makers who can ensure availability of resources. Therefore, identify your stakeholders and potential sponsors or funders to whom you will present your podcast proposal.
 The strategy should include the following – background and description of the podcast and ideas, target audience, the team, podcast format, implementation strategy, marketing plan, impact, timelines and budget. 
 
 Go HERE to download an example of a [podcast concept proposal](https://github.com/WCSCourses/YDMP/blob/main/Example%20of%20a%20podcast%20concept%20proposal.pdf)
 
 ## Do your research about producing podcasts
-There are many freely available resources available online which signpost you to various aspects from developing podcast trailers, recording equipment to editing. Another good way to learn about podcasts is to listen to as many different podcasts as you can to help you determine what is most suitable for you. Listening to similar themes podcasts also helps to determine how others have implemented their ideas.
+There are many freely available resources available online to guide you: for example developing podcast trailers, recording equipment to editing (add links). You must listen to many different podcasts including Your Digital Mentor Podcast. This will help you determine what is most suitable for you. Listening to similar themes podcasts helps to determine how others have implemented their ideas.
 
-## Embed culture into podcast 
-In all the activities it is important to respect cultures, ensure representation by having diverse guests and strategies to reach audiences that may really benefit from the podcast. Your Digital Mentor Podcast implement gender, geographical and demographic diversity by inviting guests from all over the world and experts at different career stages.
+## Embed diversity and inclusiveness into podcast 
+It is important to respect cultures, and ensure representation by having diverse guests and strategies to reach audiences that may really benefit from the podcast. At Your Digital Mentor Podcast, we implement gender, geographical and demographic diversity by inviting guests at different career stages from all over the world.
 
 Go to the next section to get comprehensive details for implementing a podcast.
 
