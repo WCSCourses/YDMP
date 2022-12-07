@@ -5,6 +5,7 @@ The digital mentor podcast is a series that provides access to conversations aro
 Your Digital Mentor Podcast was started in 2020 following a successful proposal by Christine Boinett to the TDR-Global mentorship contest call in late 2019, support by Alice Matimba who was starting to think about incorporating development of professional skills in the Wellcome Connecting Science training and capacity building programme. This was a contest to enhance research mentorship in LMIC regions, and developing digital mentorship resources which can enhance access to scientists anywhere in the world was a winner. In early 2020, having received news about the successful outcome of the proposal, Emmanuela Oppong who was at the time involved reviewing mentorship ideas joined the team. Isabela Malta, enthusiastically joined the ship and Your Digital Mentor Podcast was born. Over a timeline of 6 months to the first episode the team set out to develop the the podcast from scratch. Along the way, the team received support and advice from many institutional leaders, global champions and science experts who showed great enthusiasm throughout the initiation and implementation of the podcast. 
 
 Hear more about how the podcast came to be by listening to [this Season 1 bonus episode](https://your-digital-mentor.simplecast.com/episodes/meet-our-awesome-team) on [Your Digital Mentor Podcast](https://your-digital-mentor.simplecast.com/episodes) Season 1 bonus episode series.   
+   
 Follow @mentor_podcast on [Twitter](https://twitter.com/mentor_podcast) and [LinkedIn](https://www.linkedin.com/company/66932029/admin/)
       
 ## Podcast Team and Contributors
@@ -27,7 +28,7 @@ Mariana Vaz
 Nomusa Taylor-Dube, Chebet Rono, Joseph Tucker, Darren Hughes, Stephen Bentley
 
 ## Collaborating Institutions
-Wellcome Sanger Institute (WSI); Wellcome Connecting Science (WCS); Social Innovation in Health Initiatives (SIHI) - co-sponsored by the TDR Global, Special Programme for Research. 
+[Wellcome Sanger Institute (WSI)](https://www.sanger.ac.uk); [Wellcome Connecting Science (WCS)](https://www.wellcomeconnectingscience.org); [Social Innovation in Health Initiatives (SIHI)](https://socialinnovationinhealth.org) - co-sponsored by the TDR Global, Special Programme for Research. 
 
 ## Useful links
 [Welcome to Your Digital Mentor Podcast](README.md)      
