@@ -1,7 +1,6 @@
 # Share your podcast idea
 
-Initiating a podcast for professional skills development
-Many scientists develop podcast out of passion to share experiences and deliver knowledge often on a voluntary basis with limited to no resources. The journey starts by finding allies who share your vision and collaborate to gain support from your institution, funders or other forms of support. We have compiled a road-map to navigating your way to developing your own podcast for scientists interested in professional skills development.
+Many scientists develop podcast out of passion to share experiences and deliver knowledge often on a voluntary basis with limited to no resources. The journey starts by finding allies who share your vision and collaborate to gain support from your institution, funders or other forms of support. We have compiled a road-map to navigating your way from idea to disseminating your own podcast for scientists interested in professional skills development.
 
 ## Explore your idea
 Explore your idea with your colleagues or peers to determine if the topic is podcast worthy. Determine the scope and themes which you would like to cover and research on other similarly themed podcasts.
@@ -31,7 +30,7 @@ Go to the next section to get comprehensive details for implementing a podcast.
 [Welcome to Your Digital Mentor Podcast](README.md)      
 [About this Repository](About this repository.md)             
 [About Your Digital Mentor Podcast](About Your Digital Mentor Podcast.md).                          
-[Initiating your podcast](Initiating a podcast.md)              
+[Share your podcast idea](Initiating a podcast.md)              
 [Implement your podcast](Implement your podcast.md)        
 [License](LICENSE.md)             
 
